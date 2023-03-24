@@ -1,0 +1,3 @@
+# PINTEREST
+
+Clone of Pinterest

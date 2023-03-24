@@ -1,0 +1,21 @@
+{
+  "name": "pinterest-clone",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "A clone of Popular social media platform, Pinterest. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamGolden/pinterest-clone.git"
+  },
+  "author": "Golden Chukwukere, Noble Osinachi, David Oluwasegun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamGolden/pinterest-clone/issues"
+  },
+  "homepage": "https://github.com/iamGolden/pinterest-clone#readme"
+}
